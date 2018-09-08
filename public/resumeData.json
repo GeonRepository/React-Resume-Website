@@ -1,96 +1,40 @@
 {
   "main": {
     "name":"Peter Park",
-<<<<<<< Updated upstream
-    "occupation":"Recent College Grad",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-=======
     "occupation":"recent college grad",
     "description":"Dedicated developer with a background in:\n•Development with Java for five years\n•Experience with MySQL as a relational database\n•Two years working with HTML, Javascript, and CSS \n•Experience with React, JSX, and Redux",
->>>>>>> Stashed changes
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Hi, I am a recent Virginia Tech graduate. I am most familiar with Java, but also have experience in C and Web-Development. I have done projects in PHP and JavaEE using well-known technologies like CSS, HTML, Javascript, and MySQL database. I am currently focused on reinforcing the basics of Web-Development as well as learning new technologies like React and Ruby.",
     "email": "geonwoo1996@gmail.com",
     "phone": "703-946-5116",
     "address":{
       "city":"Centreville",
       "state":"Virginia"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.peterpark.me",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"https://plus.google.com/u/0/117151364986359701552",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-<<<<<<< Updated upstream
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-=======
         "url":"https://www.linkedin.com/in/geonwoopark",
->>>>>>> Stashed changes
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/geonrepository",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
+
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Tech I have experience in, descending order of time spent with them",
     "education":[
       {
-<<<<<<< Updated upstream
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
-    ],
-    "work":[
-      {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-=======
         "school":"Virginia Polytechnic Institute and State University",
         "degree":"B.S in Computer Science",
         "graduated":"May 2018",
@@ -127,111 +71,71 @@
         "title":"Creation of a Historical Website",
         "tech":"HTML, CSS, PHP, Javascript, Jquery, AJAX, MySQL, AWS",
         "description":"Created website documenting battle that occured at Rhine River.\n•Created RESTful endpoints to interface with historical data\n•Implemented UI for performing operations\n•Has user authentication and multiple levels of administration"
->>>>>>> Stashed changes
       }
     ],
     "skills":[
       {
-<<<<<<< Updated upstream
-=======
         "image":"java.png",
         "name":"Java",
         "description":"This is the language I am by far the most familiar with. While I liked using Java for learning Object-oriented programming, I wanted to branch out into learning and using new technologies."
       },
       {
         "image":"git.png",
->>>>>>> Stashed changes
         "name":"Git",
-        "level":"60%"
+        "description":"Git is a widely used version control system, which blew my mind when I first discoverd it. Since then, I have learned great deal more about proper usage of commits, push, and pull request."
       },
       {
-<<<<<<< Updated upstream
-        "name":"Illustrator",
-        "level":"55%"
-=======
         "image":"html5.png",
         "name":"HTML, CSS, Javascript",
         "description":"HTML is the first ever \"technology\" that I've experienced. As I child I was amazed by the crude HTML page I could make. Now, I am eager to learn all the nuances of DOM."
->>>>>>> Stashed changes
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "image":"javaee.png",
+        "name":"Java Enterprise Edition",
+        "description":"Java EE and its subsequent specifications such as Servlet, WebSocket, Java Server Faces, and Java Persistence API was my first experience on creating a working web application."
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "image":"mysql.png",
+        "name":"MySQL",
+        "description":"Because Java EE supported MySQL, this has been the database of my choice."
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "image":"aws.png",
+        "name":"Amazon Web Services",
+        "description":"AWS the first and possibly the final step into launching my own web application. I hosted assignments on it during college, and now I host my own website on AWS S3."
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "image":"rubyonrails.png",
+        "name":"Ruby on Rails",
+        "description":"Ruby on Rails is one of the technologies that I am branching out into. Everything in Ruby makes sense, and I am slowly getting comfortable with using it."
       },
       {
-<<<<<<< Updated upstream
-        "name":"MongoDB",
-        "level":"80%"
-=======
         "image":"react.png",
         "name":"React",
         "description":"React is another new technology I wanted to learn. So far I really enjoy building user interfaces with React."
->>>>>>> Stashed changes
       }
+      
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Simple Translator",
+        "category":"Simple translator developed using Ruby on Rails and Google's API.",
+        "image":"translator.png",
+        "url":"https://github.com/GeonRepository/Translator"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Tweet Visualization",
+        "category":"Gathered Twitter data and created meaningful graphics related to reponse after school shooting.",
+        "image":"shootings.png",
+        "url":"https://vtechworks.lib.vt.edu/handle/10919/83216"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-<<<<<<< Updated upstream
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
-=======
         "title":"Geographic Information System",
         "category":"Allows for browsing of geographic data via coordinates or location name.",
         "image":"gis.png",
         "url":"https://drive.google.com/open?id=0BzsCOfp4uCfbOXM4bS1tZm55X1U"
->>>>>>> Stashed changes
       }
     ]
   }
