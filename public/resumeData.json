@@ -1,18 +1,21 @@
 {
   "main": {
     "name":"Peter Park",
+<<<<<<< Updated upstream
     "occupation":"Recent College Grad",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+=======
+    "occupation":"recent college grad",
+    "description":"Dedicated developer with a background in:\n•Development with Java for five years\n•Experience with MySQL as a relational database\n•Two years working with HTML, Javascript, and CSS \n•Experience with React, JSX, and Redux",
+>>>>>>> Stashed changes
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "geonwoo1996@gmail.com",
     "phone": "703-946-5116",
     "address":{
-      "street":"14314 Climbing Rose Way, Apt 202",
       "city":"Centreville",
-      "state":"Virginia",
-      "zip": "20121"
+      "state":"Virginia"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -34,7 +37,11 @@
       },
       {
         "name":"linkedin",
+<<<<<<< Updated upstream
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+=======
+        "url":"https://www.linkedin.com/in/geonwoopark",
+>>>>>>> Stashed changes
         "className":"fa fa-linkedin"
       },
       {
@@ -58,6 +65,7 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
+<<<<<<< Updated upstream
         "school":"University?",
         "degree":"Masters in Beer tasting",
         "graduated":"April 2007",
@@ -82,16 +90,69 @@
         "title":"Junior bug fixer",
         "years":"March 2007 - February 2010",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+=======
+        "school":"Virginia Polytechnic Institute and State University",
+        "degree":"B.S in Computer Science",
+        "graduated":"May 2018",
+        "description":"Learned how to use resources effectively, work efficiently as a team, and convert mistakes into growth."
+      }
+    ],
+    "experience":[
+      {
+        "name":"Lunaverse",
+        "title":"Intern",
+        "years":"July 2018 - Present",
+        "description":"Worked in a small team using Ruby/Rails and Google Translate API to develope a chat translation app.\n•Designed, set up, developed, and tested a new Ruby application\n•Followed AGILE methodology with daily Scrum meetings\n•Peer reviewed code and created pull-requests in Git"
+      },
+      {
+        "name":"Personal Website",
+        "title":"Intern",
+        "years":"July 2018 - Present",
+        "description":"Developed a React website that contains my skills, education, and experience.\n•Built using React, designed using SCSS, hosted with AWS\n•Made responsive for smaller screens"
+      },
+      {
+        "name":"GETAR",
+        "title":"Tweet Visualization",
+        "tech":"Python, Tableau",
+        "description":"Worked with a team to create visualizations of data from Twitter.\n•Retrieved tweet data and sentiment analysis using public API\n•Created Python scripts for processing large quantity of data\n•Overcame new obstacles that would rise with new requirements"
+      },
+      {
+        "name":"LINbase",
+        "title":"Website Maintenance",
+        "tech":"PHP, CSS, HTML, MySQL",
+        "description":"Pair-coded with colleague to maintain the website for LinBase.\n•Documented and cleaned code for better readability\n•Changed and improved website layout"
+      },
+      {
+        "name":"Battle of the Rhine River",
+        "title":"Creation of a Historical Website",
+        "tech":"HTML, CSS, PHP, Javascript, Jquery, AJAX, MySQL, AWS",
+        "description":"Created website documenting battle that occured at Rhine River.\n•Created RESTful endpoints to interface with historical data\n•Implemented UI for performing operations\n•Has user authentication and multiple levels of administration"
+>>>>>>> Stashed changes
       }
     ],
     "skills":[
       {
+<<<<<<< Updated upstream
+=======
+        "image":"java.png",
+        "name":"Java",
+        "description":"This is the language I am by far the most familiar with. While I liked using Java for learning Object-oriented programming, I wanted to branch out into learning and using new technologies."
+      },
+      {
+        "image":"git.png",
+>>>>>>> Stashed changes
         "name":"Git",
         "level":"60%"
       },
       {
+<<<<<<< Updated upstream
         "name":"Illustrator",
         "level":"55%"
+=======
+        "image":"html5.png",
+        "name":"HTML, CSS, Javascript",
+        "description":"HTML is the first ever \"technology\" that I've experienced. As I child I was amazed by the crude HTML page I could make. Now, I am eager to learn all the nuances of DOM."
+>>>>>>> Stashed changes
       },
       {
         "name":"ReactJs",
@@ -110,8 +171,14 @@
         "level":"50%"
       },
       {
+<<<<<<< Updated upstream
         "name":"MongoDB",
         "level":"80%"
+=======
+        "image":"react.png",
+        "name":"React",
+        "description":"React is another new technology I wanted to learn. So far I really enjoy building user interfaces with React."
+>>>>>>> Stashed changes
       }
     ]
   },
@@ -142,6 +209,7 @@
         "url":"http://www.timbakerdev.com"
       },
       {
+<<<<<<< Updated upstream
         "title":"Smirkspace",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"smirkspace.jpg",
@@ -158,6 +226,12 @@
       {
         "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user":"Steve Wozniak... impersonator"
+=======
+        "title":"Geographic Information System",
+        "category":"Allows for browsing of geographic data via coordinates or location name.",
+        "image":"gis.png",
+        "url":"https://drive.google.com/open?id=0BzsCOfp4uCfbOXM4bS1tZm55X1U"
+>>>>>>> Stashed changes
       }
     ]
   }

@@ -10,10 +10,19 @@ class Resume extends Component {
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <p>{education.description}</p></div>
       })
+<<<<<<< Updated upstream
       var work = this.props.data.work.map(function(work){
         return <div key={work.company}><h3>{work.company}</h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             <p>{work.description}</p>
+=======
+      var experience = this.props.data.experience.map(function(experience){
+        return <div key={experience.name}><h3>{experience.name}</h3>
+            <p className="info">{experience.title}<span>&bull;</span> <em className="date">{experience.years}</em><em className="date">{experience.tech}</em></p>
+            <pre>
+              <p>{experience.description}</p>
+            </pre>
+>>>>>>> Stashed changes
         </div>
       })
       var skills = this.props.data.skills.map(function(skills){
