@@ -46,7 +46,7 @@
         "name":"Lunaverse",
         "title":"Intern",
         "years":"July 2018 - Present",
-        "description":"Worked in a small team using Ruby/Rails and Google Translate API to develope a chat translation app.\n•Designed, set up, developed, and tested a new Ruby application\n•Followed AGILE methodology with daily Scrum meetings\n•Peer reviewed code and created pull-requests in Git"
+        "description":"Worked in a small team using Ruby/Rails and Google Translate API to develop a translation app.\n•Designed, set up, developed, and tested a new Ruby application\n•Followed AGILE methodology with daily Scrum meetings\n•Peer reviewed code and created pull-requests in Git"
       },
       {
         "name":"Personal Website",
@@ -92,7 +92,7 @@
       {
         "image":"javaee.png",
         "name":"Java Enterprise Edition",
-        "description":"Java EE and its subsequent specifications such as Servlet, WebSocket, Java Server Faces, and Java Persistence API was my first experience on creating a working web application."
+        "description":"Java EE and its subset specifications such as Java Server Faces, Persistence API, WebSocket, and Servlet was my first experience on creating a working web application."
       },
       {
         "image":"mysql.png",
