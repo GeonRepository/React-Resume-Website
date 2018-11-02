@@ -50,8 +50,8 @@
       },
       {
         "name":"Personal Website",
-        "title":"Intern",
-        "years":"July 2018 - Present",
+        "title":"React based resume website",
+        "tech":"React, AWS",
         "description":"Developed a React website that contains my skills, education, and experience.\n•Built using React, designed using SCSS, hosted with AWS\n•Made responsive for smaller screens"
       },
       {
@@ -82,7 +82,7 @@
       {
         "image":"git.png",
         "name":"Git",
-        "description":"Git is a widely used version control system, which blew my mind when I first discoverd it. Since then, I have learned great deal more about proper usage of commits, push, and pull request."
+        "description":"Git is a widely used version control system, which blew my mind when I first discovered it. Since then, I have learned great deal more about proper usage of commits, push, and pull request."
       },
       {
         "image":"html5.png",
